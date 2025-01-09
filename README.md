@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Sure! Below is a sample `README.md` file for your Task Tracker project:
 
----
 
 # Task Tracker
 
