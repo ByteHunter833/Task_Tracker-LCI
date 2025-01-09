@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sure! Below is a sample `README.md` file for your Task Tracker project:
 
 ---
@@ -130,3 +131,7 @@ task-tracker/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Task_Tracker-LCI
+Task manager created with Django
+>>>>>>> 63c21f7969385df78383ddddb934639c4ea50016
