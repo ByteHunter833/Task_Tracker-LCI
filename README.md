@@ -124,11 +124,3 @@ task-tracker/
 ├── manage.py                       # Django management script
 └── requirements.txt                # List of Python dependencies
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-=======
-# Task_Tracker-LCI
-Task manager created with Django
->>>>>>> 63c21f7969385df78383ddddb934639c4ea50016
